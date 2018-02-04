@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/puneet/.android/build-cache/58a26d269964e86c839feeb99e3938c17c81b8f3/output/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
+        <dex dex="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/build/intermediates/pre-dexed/release/tango_java_lib_b1b5e9d5b55cc01a85c86045700c5467038d53d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_cde7be812689594df972e9e16e9da9b41b057694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/puneet/.android/build-cache/9fc648eda9c682ce473ad4c037995b9643735d01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_deb44924990355bf037d803010f927bd3ed73d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/puneet/.android/build-cache/58a26d269964e86c839feeb99e3938c17c81b8f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3b97040939835ac922ee937c30cfc49048106c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/puneet/.android/build-cache/c9b578abe1e94111fb997685f7e2d2514036d41c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="86661a14ae16b6d6ef1f52fc8c2a1963e9da348b">
+        <dex dex="/Users/puneet/Workspace/UnityProjects/ARRacer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f460586f4e4e1823e57e4e0d70ed3a98539e6edd.jar" />
+    </item>
+
+</items>
